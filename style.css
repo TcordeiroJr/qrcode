@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'outfit';
+
+}
+.cardQrCode{
+    background-color: hsl(212, 45%, 89%);
+    padding:150px 150px;
+    padding-left: 700px;
+}
+.tituloPrimario p{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.tituloSecundario{
+    font-size: 20px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    padding: 10px;
+}
+.qrCode img{
+    border-radius: 10%;
+    position:relative ;
+    width: 400px;    
+    left: 10%;
+    margin: 40px;
+}
+.qrCode{
+    background-color: hsl(0, 0%, 100%);
+    box-sizing: content-box;
+    border-radius: 5%;
+    width:600px;
+    height: 700px;
+    left: 20px;
+    
+}
+    
+     
+    
+    
+    
+
